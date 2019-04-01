@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1053337757286",
+    "firebase_url": "https://imafirebaseproject.firebaseio.com",
+    "project_id": "imafirebaseproject",
+    "storage_bucket": "imafirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053337757286:android:e169de3de9c4a2cb",
+        "android_client_info": {
+          "package_name": "com.vivekbalachandra.android.ima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053337757286-iub62vs7nns8aj2trr0snuuuqbne7eng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vivekbalachandra.android.ima",
+            "certificate_hash": "899cc845697c0730b8a070797e524a3641b53cc0"
+          }
+        },
+        {
+          "client_id": "1053337757286-v2ivo4t30hv2dgl70fvufu6gqmjie27e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwlUCdRGfmYXX7nssPSbeWqsL90iwA3GA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053337757286-v2ivo4t30hv2dgl70fvufu6gqmjie27e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
